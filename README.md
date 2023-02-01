@@ -1,1 +1,8 @@
-# ckb4b.github.io
+# H1 Bootstrap GitHub training
+
+**The first foray into Bootstrap learning and readme files**
+
+	
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
