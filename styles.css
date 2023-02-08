@@ -5,3 +5,7 @@ body {
 .title-text {
     margin: auto;
 }
+
+.car {
+    border-radius: 20px;
+}
