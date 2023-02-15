@@ -21,6 +21,8 @@
 .info-box {
   display: flexbox;
   margin: 10px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 . info-box-row {
@@ -37,6 +39,21 @@ h2 {
   padding-top: 40px;
   padding-bottom: 40px;
 }
+
+.info-box-text-light {
+  color: #fff;
+}
+
+.info-box p {
+  margin-left: 15px;
+  margin-bottom: 0px;
+  vertical-align: center;
+}
+
+.img-fluid {
+  display: flex;
+}
+
 
 :root {
   --bs-blue: #0d6efd;
