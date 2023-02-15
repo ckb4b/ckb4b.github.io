@@ -8,3 +8,5 @@
 - [ ] Contact the media
 
 browser-sync start --server --watch
+
+install node from browser sync website

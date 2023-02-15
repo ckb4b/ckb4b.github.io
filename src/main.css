@@ -5,6 +5,39 @@
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+
+ body {
+  background: rgb(220, 220, 220);
+}
+
+.title-text {
+  margin: auto;
+}
+
+.car {
+  border-radius: 20px;
+}
+
+.info-box {
+  display: flexbox;
+  margin: 10px;
+}
+
+. info-box-row {
+  align-items: center;
+  max-width: 100%;
+}
+
+h2 {
+  text-align: center;
+}
+
+.h2-row {
+  display: flex;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
