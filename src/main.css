@@ -7,6 +7,32 @@
  */
 
 
+
+
+.nav-link .active {
+  background-color: var(--bs-warning)!important;
+  color: #000080;
+}
+
+.nav-link:active {
+  color: #000080;
+}
+
+ .nav-item {
+  background-color: #000080;
+  border-radius: 5px;
+ }
+
+.nav-item:active {
+  background-color: var(--bs-warning);
+  color: #000080;
+  text-decoration: underline ;
+}
+
+.nav-item:hover {
+  background-color: var(--bs-warning);
+}
+
 .h2-row {
   background-color: #000080;
   margin-top: 40px;
